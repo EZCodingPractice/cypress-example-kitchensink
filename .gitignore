@@ -12,3 +12,4 @@ cypress/fixtures/users.json
 env
 .DS_Store
 .github/sample_workflows
+lambdatest-config.json
